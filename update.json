@@ -2,8 +2,8 @@
     "latest_version": "1.0.2",
     "minimum_version": "1.0.0",
     "release_date": "2026-07-19",
-    "download_url": "https://github.com/nexuswhitehat/newbusiness/releases/download/v1.0.2/update.zip",
-    "release_notes": "https://github.com/nexuswhitehat/newbusiness/releases/tag/v1.0.2",
-    "checksum": "sha256:7bc9c5c75b26a4dca8459341b823dd2faab12224bef541cd1767efd24b8890e3",
+    "download_url": "https://github.com/nexuswhitehat/newbusiness/releases/download/v1.0.3/update.zip",
+    "release_notes": "https://github.com/nexuswhitehat/newbusiness/releases/tag/v1.0.3",
+    "checksum": "sha256:083df5d59f9fe3bdea826636923191c75dfaeacbdc7580c6c56fb048e3562a58",
     "force_update": false
 }
